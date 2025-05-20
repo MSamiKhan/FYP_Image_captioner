@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+env/
+venv/
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.packages
+.idea/
+*.iml
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# System
+.DS_Store
+Thumbs.db
+
+# Git LFS
+.gitattributes
+
