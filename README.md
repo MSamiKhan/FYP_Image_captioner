@@ -1,4 +1,5 @@
 "# Final_Year_Project" 
+## video link : https://drive.google.com/file/d/1ETmjBL_kSQj64sz1GNvN5-XFBnZlVYH3/view?usp=drive_link
 # 🧠 Image Caption Generator and Tutor for Visually Impaired Persons
 
 An assistive AI-based mobile application that generates descriptive image captions and provides auditory feedback to visually impaired users — empowering them to perceive and interact with visual content more independently.
